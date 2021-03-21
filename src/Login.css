@@ -8,11 +8,11 @@
 .login>button {
     width: 300px;
     background-color: #738adb;
-    color: #eff2f5;
+    color: #08335f;
     font-weight: 800;
 }
 
 .login>button:hover {
     background-color: black;
-    color: #738adb;
+    color:#041141;
 }
