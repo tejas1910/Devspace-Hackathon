@@ -3,7 +3,7 @@
     flex-direction: column;
     flex: 0.25;
     height: 100vh;
-    background-color: #2f3135;
+    background-color: #17c71f;
 }
 
 .sidebar__top {
@@ -11,9 +11,9 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: #2f3135;
-    color: white;
-    border-bottom: 3px solid #26282c;
+    background-color: #dce1eb;
+    color: rgb(19, 40, 158);
+    border-bottom: 3px solid #35373b;
 }
 
 .sidebar__channels {
@@ -33,7 +33,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    background-color: #2f3135;
+    background-color: greenyellow;
     color: gray;
 }
 
@@ -47,7 +47,7 @@
     justify-content: space-between;
     align-items: center;
     color: gray;
-    background-color: #2f3135;
+    background-color: #000000;
     padding: 10px;
     border-top: 1px solid gray;
 
@@ -59,7 +59,7 @@
 }
 
 .sidebar__voiceInfo>h3 {
-    color: #4fb185;
+    color: gold;
 }
 
 .sidebar__voiceInfo>p {
@@ -67,7 +67,7 @@
 }
 
 .sidebar__voiceIcons {
-    color: #4fb185;
+    color: #15975c;
 }
 
 .sidebar__voiceIcons>.MuiSvgIcon-root {
